@@ -1,0 +1,7 @@
+GET http://host.docker.internal:3000/wallets/wallet1/assets
+
+###
+GET http://host.docker.internal:3000/wallets/wallet1/assets
+
+###
+GET http://localhost:3001/api/wallets/wallet1/assets
