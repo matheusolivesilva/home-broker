@@ -1,6 +1,6 @@
 # Home Broker
 
-Home broker is an online platform where people can buy and sell different assets, such as stocks and cryptocurrencies. This application allows you to invest your money in companies or assets you believe will grow in value over time. Through a home broker, you can manage your investments and make financial decisions with ease and convenience.
+Home broker is an online platform where people can buy and sell different assets, such as stocks and cryptocurrencies. This application allows you to invest your money in companies or assets you believe will grow in value over time. Through a home broker, you can manage your investments and make financial decisions with ease and convenience, follow assets growing in value (or not) and manage your profits.
 
 # Table of Contents
 
