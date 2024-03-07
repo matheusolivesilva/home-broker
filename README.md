@@ -62,9 +62,7 @@ GO was choosen to do the trade because of its parallelism features, like Go rout
 
 ## 🚀 How to Run?
 
-If you want to run this project entirely, including microservices, database (MongoDB), Kafka and frontend (NextJS application), you must follow the steps below, in order to run each project individually:
-
-### First Option:
+If you want to run this project entirely, including microservices, database (MongoDB), Kafka and frontend (NextJS application), you must follow the steps below, in order to run each project:
 
 1. Run Go Microservice:
 
